@@ -1,0 +1,59 @@
+# 🏡 Sistema de Reserva de Cabañas
+
+Aplicación desarrollada en Java con interfaz gráfica (GUI) que permite gestionar reservas de cabañas utilizando estructuras dinámicas como ArrayList.
+
+## 📌 Descripción
+
+Este sistema permite:
+
+- Registrar reservas de clientes
+- Almacenar la información en un ArrayList
+- Visualizar un listado general de reservas
+- Generar estadísticas a partir de los datos almacenados
+- Navegar entre diferentes ventanas mediante una interfaz gráfica amigable
+
+## 🛠️ Tecnologías utilizadas
+
+- Java
+- Swing (GUI)
+- ArrayList
+- NetBeans IDE
+
+## 📂 Estructura del sistema
+
+El proyecto está organizado en diferentes módulos:
+
+- **Menú Principal**: Navegación entre ventanas
+- **Ingreso de Datos**: Formulario para registrar reservas
+- **Listado General**: Visualización en tabla (JTable)
+- **Estadísticas**: Cálculos basados en los datos
+- **Programadores**: Información del equipo
+
+## 🔄 Control de versiones
+
+Este proyecto fue gestionado mediante GitHub, evidenciando múltiples versiones del desarrollo mediante commits.
+
+## 👨‍💻 Programadores
+
+- **Juan José Gonzales Moreno**  
+  Código: 2463140  
+
+- **William Snyder Salgado Beltran**  
+  Código: 2463024  
+
+- **Juan Sebastian Castañeda**  
+  Código: 2463163-2724  
+
+## 📸 Evidencias
+
+Se incluyen capturas de pantalla que muestran:
+
+- Creación del repositorio en GitHub
+- Subida inicial del proyecto
+- Registro de múltiples versiones (commits)
+
+## 📅 Fecha de entrega
+
+30 de marzo de 2026
+
+---
